@@ -1,7 +1,6 @@
-s = "Geeks"
-s = list(s)
-strin = ""
-for i in range(len(s)):
-    strin += s.pop()
-        
-print(strin) 
+s = "geeks"
+s1 = ""
+for i in s:
+    s1=i+s1
+
+print(s1)
