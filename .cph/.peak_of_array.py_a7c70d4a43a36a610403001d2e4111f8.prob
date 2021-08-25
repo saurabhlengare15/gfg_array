@@ -1,0 +1,1 @@
+{"name":"Local: peak_of_array","url":"e:\\Coding\\CP\\gfg\\peak_of_array.py","tests":[{"id":1629892413890,"input":"6,1,15,19,9,13,12,6,7,2,10,4,1,14,11,14,14,13","output":"19"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\CP\\gfg\\peak_of_array.py","group":"local","local":true}
